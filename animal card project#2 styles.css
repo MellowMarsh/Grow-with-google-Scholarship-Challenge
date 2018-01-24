@@ -1,0 +1,61 @@
+body {
+  font-family: fantasy;
+}
+
+h3 {
+  text-align: center;
+  padding: 4px 4px 4px 4px;
+}
+img {
+  border-style: solid;
+  border-width:medium;
+  border-color: #771f76;
+  height: 300px;
+  width: 300px;
+  border-radius: 12px 12px 12px 12px;
+  margin: auto;
+}
+.card {
+  border-radius: 12px 12px 12px 12px;
+	border-color: #8e3473;
+  box-shadow: 2px 4px 2px 4px;
+	border-style: solid;
+	border-width: thin;
+	width: 300px;
+	padding: 5px 10px 10px 5px;
+  margin: auto;
+	background-color: #2d65bf;
+
+}
+
+.card-description {
+  border-radius: 12px 12px 12px 12px;
+  border-color: #771f76;
+  border-style: solid;
+  border-width: medium;
+  background-color: #a7eff2;
+  width: 300px;
+
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.fact-description {
+  border-color: inherit;
+	font-style: italic;
+	padding: 10px 10px 15px 10px;
+}
+ ul span{
+   font-weight: bold;
+ }
+ul {
+	list-style: none;
+	padding: 10px 10px 15px 10px;
+}
+.information {
+ padding: 10px 10px 15px 10px;
+}
+
+/* add your CSS here */
